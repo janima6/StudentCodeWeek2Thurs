@@ -10,7 +10,7 @@ package ca.sheridancollege.week1.softwarefundamentals;
  * with 3 students from the current section and then iterates over the
  * list to print each name.
 
- * @author mehta
+ * @author mehta 24th jan
  */
 public class StudentTester {
     public static void main(String[] args)
